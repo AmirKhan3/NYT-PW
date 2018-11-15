@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Remove NY Times PW
-// @namespace    https://github.com/AmirKhan3/NYT-PW
+// @namespace    -
 // @version      1
 // @description  Removes the NY Times Pawall
-// @author       thekhansolo
+// @author       solo
 // @include      /^http(s?)://((www\.)?)nytimes\.com(.*)?/\d\d\d\d/(.+)$/
 // @grant        none
 // ==/UserScript==
